@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tarjeta de presentación</string>
+    <string name="initials">SB</string>
+    <string name="full_name">Sebastián</string>
+    <string name="profession">Desarrollador de aplicaciones móviles</string>
+    <string name="profile_summary">Transformo ideas en experiencias móviles claras, útiles y fáciles de usar.</string>
+    <string name="phone_label">Teléfono</string>
+    <string name="phone_number">+593 99 000 0000</string>
+    <string name="email_label">Correo</string>
+    <string name="email_address">correo@ejemplo.com</string>
+    <string name="github_label">GitHub</string>
+    <string name="github_user">@sebasbv11</string>
+</resources>
